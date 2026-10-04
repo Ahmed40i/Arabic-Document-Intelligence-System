@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+opencv-python-headless
+pytesseract
+numpy
+sentence-transformers
+chromadb
+rank-bm25
+anthropic
+openai
+streamlit
+requests
+pytest
